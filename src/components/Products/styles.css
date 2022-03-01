@@ -1,0 +1,20 @@
+
+.product_img{
+    width:auto;
+   height: 110px;
+}
+div>button{
+    width:70px;
+}
+
+div>input{
+    width: 25%;
+    height:20%;
+    border:1px solid rgb(162,155,254);
+    outline-color:rgb(220, 220, 220);
+    border-radius:5px;
+    padding: 4px 10px;
+    text-align: center;
+
+    
+}

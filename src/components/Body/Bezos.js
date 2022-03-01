@@ -5,7 +5,7 @@ function Bezos() {
   return (
     <div className='container bg-light'>
         <div className='text-center '>
-            <img style={{width:"300px",height:"250px",marginTop:"30px"}} className='rounded-circle' src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSVvdf3mtAr8BQaBqwu2wAFbJD1dH6jtmyAK7hZRRnbFc0yc_pT" alt="" />
+            <img style={{width:"300px",height:"300px",marginTop:"30px"}} className='rounded-circle' src="https://cdnntr1.img.sputniknews.com/img/07e5/0b/0f/1050818989_140:0:940:800_1920x0_80_0_0_ccfde0cbf3873ab59492b4e51a5732bd.jpg" alt="" />
             <h1 className='mt-5'>Spend Jeff Bezos' Money</h1>
 
         </div>
