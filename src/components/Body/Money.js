@@ -9,7 +9,8 @@ function Money() {
   
   });
   return (
-    <div><h1>{formatter.format(money)}</h1></div>
+    <div>
+      <h1>{formatter.format(money)}</h1></div>
   )
 }
 

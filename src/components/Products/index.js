@@ -23,7 +23,7 @@ const item =product.find((res)=>res.id===id);
 
 
 const [count,setCount]=useState(item.count);
-console.log(initialMoney)
+
 const [isBuyable,setisBuyable] =useState(false);
 
 const [isSellable,setisSellable] =useState(true);
@@ -81,7 +81,7 @@ const handleChange = (value) =>{
 
     <div >
       <div className='row  justify-content-center '>
-        <div className=' col-sm-11 text-center  mt-3  border ' >
+        <div className=' col-sm-11 text-center  mt-3  border product ' >
             <div  className='justify-content-center col-sm'>
               <img  className='product_img' src={item.image} alt="" />
                 

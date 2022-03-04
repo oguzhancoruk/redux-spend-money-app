@@ -2,9 +2,9 @@ import React from 'react'
 
 function index() {
   return (
-    <div  className='container'>
+    <div className='container'>
         
-            <div   className="row mt-3 bg-light ">
+            <div className="row mt-3 bg-light ">
             <div className='col-sm-6'>
                <h2>WELCOME</h2>
            </div>
